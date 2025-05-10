@@ -19,6 +19,7 @@ This project is a data exploration dashboard built with **Streamlit** and **Plot
       Embarked: 2 missing values
 
   - Data cleanning
+    
       Droping unnecessary columns (Unnamed 0, ticket number, cabin)
       
       Filling NA values in Age in range 18 to 40 becaues of age distribution was high in between

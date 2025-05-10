@@ -24,7 +24,7 @@ This project is a data exploration dashboard built with **Streamlit** and **Plot
       
       Filling NA values in Age in range 18 to 40 becaues of age distribution was high in between
 
-      droping rows in (Survived, Fare, Embarked)
+      droping rows NA in (Survived, Fare, Embarked)
 
 ---
 
